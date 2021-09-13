@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bsmod",
+  "name": "BS Mod",
+  "description": "A simple Hypixel Skyblock BIN sniping mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["jumpingpitabread"],
+  "credits": "AOTF for inspiring me :D",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
